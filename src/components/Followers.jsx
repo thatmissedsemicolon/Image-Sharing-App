@@ -69,7 +69,7 @@ const Followers = () => {
                   }}
                   className='font-bold text-red-500 ml-28 md:ml-0 md:text-sm'
                 >
-                  Remove follower 
+                  Remove 
                 </button>
               )}
             </div>
