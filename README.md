@@ -6,7 +6,7 @@ This is a full stack social networking Share Me App project. In this project, A 
 This Project also used some of advanced React properties to create Following page logic please test multiple ways to understand how to implement and fetch following users. Feel Free to edit errors! 
 
 
-Thanks to 
+Thanks to https://github.com/adrianhajdin for the project!
 
 
 
