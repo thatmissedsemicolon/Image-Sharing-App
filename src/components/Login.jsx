@@ -5,7 +5,7 @@ import { FcGoogle } from 'react-icons/fc';
 import shareVideo from '../assets/share.mp4';
 import logo from '../assets/logowhite.png';
 import toast, { Toaster } from 'react-hot-toast';
-import Spinner from './Spinner';
+import Loader from './Loader';
 
 import { client } from '../client';
 
@@ -43,7 +43,7 @@ const Login = () => {
 
   }
 
-  if(isloading) return <Spinner message="Loading..." />
+  if(isloading) return <Loader message="Loading..." />
 
   return (
     <div className="flex justify-start items-center flex-col h-screen">
