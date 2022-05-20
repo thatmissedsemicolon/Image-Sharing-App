@@ -56,12 +56,6 @@ const Home = () => {
       <div className="pb-2 flex-1 h-screen overflow-y-scroll" ref={scrollRef}>
         <Routes>
           <Route path="/user-profile/:userId" element={<UserProfile />} />
-          <Route path="/user-profile/103413444643564749029/Access-Denied" element={<AccessDenied />} />
-          {userInfo?.googleId === '103413444643564749029' ? (
-           null
-          ): (
-            <Route exact path="/user-profile/103413444643564749029/following" element={<Navigate replace to="/user-profile/103413444643564749029/Access-Denied" />} />
-          )}
           <Route path="/user-profile/:userId/followers" element={<Followers />} />
           <Route path="/user-profile/:userId/following" element={<Following />} />
           <Route path="/*" element={<Pins user={user && user} />} />
