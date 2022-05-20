@@ -1,9 +1,9 @@
-This Project was depolyrf using Netlify(https://netlify.app).
+This Project was depolyed using Netlify.
 
 
 This is a full stack social networking Share Me App project. In this project, A user can share pictures, save pictures, comment and able to follow and unfollow users. This project was developed using React.js for frontend and Sanity Client for backend.
 
-This Project also used some of advanced React properties to create Following page logic please test multiple ways to understand how to implement and fetch following users. Feel Free to edit errors! 
+This Project also used some of advanced React properties to create Following page logic please test multiple ways to understand how to implement and fetch following users. If you liked the additional options feel free to give it as Star. Thanks! 
 
 
 Thanks to https://github.com/adrianhajdin for the project!
