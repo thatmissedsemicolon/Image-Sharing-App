@@ -1,3 +1,29 @@
+This Project was developed using Netlify(https://netlify.app).
+
+
+This is a full stack social networking Share Me App project. In this project, A user can share pictures, save pictures, comment and able to follow and unfollow users. This project was developed using React.js for frontend and Sanity Client for backend.
+
+This Project also used some of advanced React properties to create Following page logic please test multiple ways to understand how to implement and fetch following users. Feel Free to edit errors! 
+
+
+Thanks to 
+
+
+
+
+
+![f4a960e93fcf9b3de3f0ba198844e34ac81e526c-2537x980](https://user-images.githubusercontent.com/77827345/169586162-ee0b66be-19bd-445b-bc76-d099aaeca6a4.png)
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
